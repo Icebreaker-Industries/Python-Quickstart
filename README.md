@@ -1,5 +1,5 @@
 # Code like a Yeshiva Guy
-**This quickstart guide is a work in progress. We're figuring things out.**
+**This quickstart guide is a work in progress. We're figuring things out.**  
 This guide is intended to help you start learning Python, using the the tools that FTI students will eventually use for collaborative projects - G-d willing and the creek don't rise.  
 The overall goal of this guide is that you learn to use the Python language. There are two basic approaches we're trying.
 ##1. Tutorials in a Browser
