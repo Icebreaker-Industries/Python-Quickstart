@@ -30,7 +30,8 @@ Once the installer downloads, run it, and click through it, accepting all the de
 - You have a few choices now.
   - You can Start hyperskill projects, which means that you do the same JetBrains Academy challenges as the people who chose to work in browser, way up in section A. This choice opens a browser to try to get you signed into hyperskill. Once it's happy with your sign in, PyCharm will open the same challenge questions that you'd see on the site.
   - You can Browse Courses. There's a lot of good content available in here. The top course, Introduction to Python is good, although the tests sometimes glitch.  
-You're now good to go. Start working through a course.  
+
+**You're now good to go. Start working through a course.**  
 ### C. Install Git (skip if you aren't on Windows)
 *This one might be tricky. If you're wasting time, getting mad, text me and we'll fix it later. You can start without this.*  
 Git is an awesome, lightweight, powerful, elegant tool, that [no one understands how to use](https://xkcd.com/1597/).  
