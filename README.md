@@ -1,11 +1,11 @@
 # Code like a Yeshiva Guy
 **This quickstart guide is a work in progress. We're figuring things out.**  
 This guide is intended to help you start learning Python, using the the tools that FTI students will eventually use for collaborative projects - G-d willing and the creek don't rise.  
-The overall goal of this guide is that you learn to use the Python language. There are two basic approaches we're trying.
-##1. Tutorials in a Browser
+The overall goal of this guide is that you learn to use the Python language. There are two basic approaches we're trying.  
+## 1. Tutorials in a Browser
 Jetbrains Academy seems to have good tutorials in browser. This means you don't have to install anything.  
-Visit <https://hyperskill.org/onboarding?track=python> and register for an account. Select the Python Developer Path and start working. The reading is straightforward, and there are small tests that involve writing code in broswer.
-##2. Install the tools that we use in the real world
+Visit <https://hyperskill.org/onboarding?track=python> and register for an account. Select the Python Developer Path and start working. The reading is straightforward, and there are small tests that involve writing code in broswer.  
+## 2. Install the tools that we use in the real world  
 Jetbrains makes the only great Integrated Development Environment (IDE) for Python. Once we do projects together, I think you're going to need it, and Jetbrains offers great tutorials right there in the same tool that the pros use.  
 **Supports Windows 10, Max, Linux. FreeBDS, I probably can't help you make this work.**  
 ### Steps:
